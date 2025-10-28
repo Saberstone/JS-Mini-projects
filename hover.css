@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    color: white;
+}
+.box1{
+    height:180px;
+    width:100%;
+    border:2px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 img{
+    height:170px;
+    width:150px;
+    border-radius: 50%;
+    opacity:0;
+   
+}
+.box1 h1{
+    cursor: pointer;
+}
+.box2{
+    height:180px;
+    width:100%;
+    border:2px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+.box2 img{
+    height:170px;
+    width:150px;
+    border-radius: 50%;
+    opacity:0;
+}
+.box2 h1{
+    cursor: pointer;
+}
+.box3{
+    height:180px;
+    width:100%;
+    border:2px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+.box3 img{
+    height:170px;
+    width:150px;
+    border-radius: 50%;
+    opacity:0;
+}
+.box3 h1{
+    cursor: pointer;
+}
